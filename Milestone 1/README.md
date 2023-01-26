@@ -1,0 +1,1 @@
+bytecheck is an executable named bytecheck that opens a file of up to 25 kilobytes and counts the number of times that a given byte value (specified in the argument) occurs in the file. 
